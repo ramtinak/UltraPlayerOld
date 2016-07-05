@@ -3,6 +3,13 @@
 ### An simple player for Windows 10 [Universal Windows Platform (UWP)] written by C# and XAML.
 #### Subtitle parser in Ultra Player uses "IranSub subtitle parser [Developed by Ramtin Jokar]" that can parse mostly subtitles.
 
+
+
+##### Note:
+###   Ultra Player is not an open source project but you can have v1.0 source code!
+
+
+
 ##- Ultra Player Features:
 ##### Fast and smooth
 ##### Easy to use

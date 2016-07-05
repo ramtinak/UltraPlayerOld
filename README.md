@@ -60,7 +60,8 @@ Screen shots:
 ```
 
 
-
+You can download Ultra Player in Microsoft Store:
+[Download Ultra Player](https://www.microsoft.com/store/apps/9nblggh4wpbm)
 
 Developer and programmer: Ramtin Jokar
 

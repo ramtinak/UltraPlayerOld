@@ -44,6 +44,17 @@ Screen shots:
 ![Player page](http://www.win-nevis.com/app/Ultra/Player/mob3.png)
 
 
+
+#### Note:
+```
+   Open this project with Visual Studio 2015
+   On Visual Studio Menu, click on Build and then choose Rebuild soltuton.
+   Then on Solution Explorer right-click on Ultra Player project and click on Debug and choose Start new Instanse
+```
+
+
+
+
 Developer and programmer: Ramtin Jokar
 
 Ramtinak@live.com
